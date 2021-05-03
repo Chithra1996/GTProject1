@@ -2,10 +2,12 @@
 A3 Project members: Abdellah, Chithra, Eric, Jennifer, and Jessica
 
 ### Overview
-This project analyzes COVID-19 vaccination progress across nine counties in California. To conduct our analysis, we used publicly avaiable csv files from the CDC and California Health Department. 
+This project analyzes COVID-19 vaccination progress across nine counties in California. To conduct our analysis, we used publicly avaiable csv files from the CDC and California Health Department. We focused on California to narrow the parameters of our analysis. 
 
 ### Hypothesis 
-We hypothesize 
+We hypothesize the vaccination and death rates would vary demographically. 
+
+Due to historical scientific experiments in communities with high populations of Black, Indigenous, and People of Color (BIPOC) (such as Tuskegee Syphilis Study, forced sterilization of Mexican women by Los Angeles County-USC Medical Center hospital), members of these communities will have lower vaccination rates. We believe that the White, non-Hispanic demographic will have the highest vaccination rate. 
 
 
 ### Analysis Questions 
