@@ -19,7 +19,7 @@ Due to historical scientific experiments in communities with high populations of
 ### Observations
 
 There is a positive correlation between COVID cases and COVID-related deaths.
-- Of the 1.4% of positive COVID tests resulted in deaths in California. 
+- Of the 8,718,498 positive COVID tests, 1.379297% (120,254) resulted in deaths in California. 
 - The outliers represent the counties where there were no deaths. 
 
 Our analysis of vaccination rate by demographics in Orange county California. 
